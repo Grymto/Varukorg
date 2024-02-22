@@ -1,2 +1,8 @@
-<?php
-// Silence is golden.
+
+<?php get_header(); ?>
+
+<!-- Your main content goes here -->
+
+<?php get_footer(); ?>
+
+
